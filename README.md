@@ -1,8 +1,8 @@
 # ##################################
 #
-# This is ELO reward system projects
+# This is Sandwich-bot reward system projects
 
-# `elo-project`
+# `Sandwich-bot-project`
 
 > React components and hooks for fast building dApps without running own backend
 
@@ -14,7 +14,7 @@ Please check the [official documentation of Moralis](https://docs.moralis.io/#us
 
 # 🚀 Quick Start
 
-📄 Clone or fork `elo-project`:
+📄 Clone or fork `Sandwich-bot-project`:
 ```sh
 git clone the repo
 ```
